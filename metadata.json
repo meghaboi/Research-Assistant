@@ -1,0 +1,5 @@
+{
+  "name": "AI Research Assistant",
+  "description": "An AI-powered research assistant for students and researchers. Search for academic papers, view AI-generated summaries, and get proper citations.",
+  "requestFramePermissions": []
+}
